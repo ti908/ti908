@@ -22,19 +22,7 @@ My **6+ years of QA experience** spans manual, automation, API, web, and mobile 
 
 ### Core Expertise
 
-* 🧪 Test Automation Engineering
-* 🌐 Web Application Testing
-* 📱 Mobile Application Testing
-* 🔌 API Testing
-* 🔍 Exploratory Testing
-* 🎯 Risk-Based Testing
-* 🔄 Regression Testing
-* 🚀 End-to-End Testing
-* ⚙️ CI/CD Test Integration
-* 🏗️ Test Framework Development
-* 📋 Test Strategy & Planning
-* 🐛 Defect Investigation & Root-Cause Analysis
-* 🤝 Cross-functional Agile Collaboration
+* Test Automation Engineering • Web Application Testing • Mobile Application Testing • API Testing • Exploratory Testing • Risk-Based Testing • *Regression Testing • End-to-End Testing • CI/CD Test Integration • Test Framework Development • Test Strategy & Planning • Defect Investigation & *Root-Cause Analysis • Cross-functional Agile Collaboration
 
 ---
 
@@ -42,7 +30,7 @@ My **6+ years of QA experience** spans manual, automation, API, web, and mobile 
 
 ### Test Automation
 
-**Playwright • Cypress • Selenium WebDriver • Appium • Pytest**
+**Playwright • Cypress • Appium • Pytest**
 
 ### Programming & Scripting
 
@@ -63,26 +51,6 @@ My **6+ years of QA experience** spans manual, automation, API, web, and mobile 
 ### Testing Approaches
 
 **Functional Testing • Exploratory Testing • Regression Testing • E2E Testing • Integration Testing • Risk-Based Testing • BDD**
-
----
-
-## 🤖 AI-Assisted Quality Engineering
-
-I actively explore how **AI can improve modern Software Quality Engineering workflows** while keeping engineering judgement and validation at the centre of the testing process.
-
-I use AI-assisted tools to accelerate areas such as:
-
-* Test scenario and edge-case generation
-* Playwright and Cypress test development
-* Test automation refactoring
-* Synthetic test data generation
-* Log and failure analysis
-* API test generation
-* Test coverage analysis
-* Debugging and root-cause investigation
-* QA documentation and test planning
-
-My focus is on using AI as a **force multiplier for QA engineering**, not as a replacement for critical thinking, exploratory testing, or engineering judgement.
 
 ---
 
