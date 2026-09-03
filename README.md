@@ -1,109 +1,156 @@
 # Hi there, I'm Martin Walter Ampah 👋
 
-### Machine Learning Researcher | Software Quality Engineer | MSc Computer Science
+### Software Quality Engineer | QA Automation Engineer | ISTQB Certified
 
 ## 👨🏾‍💻 About Me
 
-I'm a **Machine Learning Researcher and Software Quality Engineer** with **6+ years of experience** testing and assuring the quality of web, mobile, SaaS, FinTech, and API-driven products. My expertise spans **test automation, exploratory testing, API testing, CI/CD, and quality strategy**, using tools such as **Playwright, Cypress, Selenium, Appium, Pytest, Python, JavaScript/TypeScript, and SQL**.
+I'm a **Software Quality Engineer with 6+ years of professional experience** delivering quality across **web, mobile, SaaS, FinTech, e-commerce, API-driven, and large-scale consumer products**.
 
-My Machine Learning work focuses on **reliable and uncertainty-aware AI**, particularly **predictive maintenance, conformal prediction, probability calibration, uncertainty quantification, and cost-aware decision-making**.
+I specialize in building robust **test automation frameworks**, designing effective **QA strategies**, performing **exploratory and risk-based testing**, validating APIs and integrations, and integrating automated testing into **CI/CD pipelines**.
 
-I'm particularly interested in combining **Machine Learning with Software Quality Engineering** to build AI systems that are not only accurate, but also **reliable, testable, explainable, and safe to deploy**.
+My technical experience includes **Playwright, Cypress, Appium, Pytest, Postman, Python, JavaScript/TypeScript, SQL, GitHub Actions, Jenkins, and GitLab CI**.
 
-My goal is to contribute at the intersection of **AI/ML Quality Engineering, Trustworthy AI, ML validation, uncertainty quantification, and intelligent test automation**.
+Beyond finding bugs, I approach QA as an engineering discipline — identifying risks early, improving testability, strengthening release confidence, and collaborating closely with developers, product teams, and stakeholders throughout the **Software Development Life Cycle (SDLC)**.
 
----
-
-## 🧠 Machine Learning & Research
-
-- 🤖 Machine Learning & Predictive Modelling
-- 🎯 Conformal Prediction
-- 📊 Probability Calibration
-- 🔬 Uncertainty Quantification
-- ⚖️ Cost-Aware Decision Making
-- 🏭 Predictive Maintenance
-- 📉 Imbalanced Classification
-- 🛡️ Reliable & Trustworthy AI
-
----
-
-## 🔬 Featured Research
-
-### CSP-CAD — Conformal Selective Prediction with Cost-Aware Deferral
-
-My MSc research focuses on developing a framework for **reliable and uncertainty-aware predictive maintenance**.
-
-CSP-CAD combines:
-
-- Probability Calibration
-- Conformal Prediction
-- Selective Prediction & Deferral
-- Cost-Sensitive Decision Making
-- Machine Learning for Rare Failure Prediction
-
-The framework investigates how ML systems can identify when predictions are sufficiently reliable for automated decisions and **defer uncertain or potentially costly predictions**.
-
----
-
-## 🛠️ Technical Stack
-
-### Machine Learning & Data
-Python • Scikit-learn • XGBoost • TensorFlow • Pandas • NumPy • Matplotlib • Jupyter
-
-### Software Quality Engineering
-Playwright • Cypress • Selenium • Appium • Pytest • Postman • REST/GraphQL • SQL
-
-### CI/CD & Engineering
-Git • GitHub Actions • Jenkins • GitLab CI
-
-### Languages
-Python • JavaScript • TypeScript • SQL
+I'm particularly interested in **QA Automation, AI-assisted Quality Engineering, API testing, CI/CD, scalable test architecture, and modern approaches to building reliable software**.
 
 ---
 
 ## 🧪 Software Quality Engineering
 
-I have **6+ years of professional Software Quality Engineering experience** across web, mobile, SaaS, FinTech, e-commerce, and consumer products.
+My **6+ years of QA experience** spans manual, automation, API, web, and mobile testing across complex production environments.
 
-My experience includes:
+### Core Expertise
 
-- Test Automation Framework Development
-- Manual & Exploratory Testing
-- Web & Mobile Testing
-- API Testing
-- CI/CD Test Integration
-- Risk-Based Testing
-- Regression & End-to-End Testing
-- Quality Strategy
-- Cross-functional Agile collaboration
+* 🧪 Test Automation Engineering
+* 🌐 Web Application Testing
+* 📱 Mobile Application Testing
+* 🔌 API Testing
+* 🔍 Exploratory Testing
+* 🎯 Risk-Based Testing
+* 🔄 Regression Testing
+* 🚀 End-to-End Testing
+* ⚙️ CI/CD Test Integration
+* 🏗️ Test Framework Development
+* 📋 Test Strategy & Planning
+* 🐛 Defect Investigation & Root-Cause Analysis
+* 🤝 Cross-functional Agile Collaboration
 
 ---
 
-## 🎓 Education & Certifications
+## 🛠️ Technical Stack
 
-**MSc Computer Science**  
+### Test Automation
+
+**Playwright • Cypress • Selenium WebDriver • Appium • Pytest**
+
+### Programming & Scripting
+
+**Python • JavaScript • TypeScript • SQL**
+
+### API Testing
+
+**Postman • REST APIs • GraphQL • API Automation**
+
+### Mobile Testing
+
+**Appium • Android Studio • UiAutomator2 • iOS & Android Testing**
+
+### CI/CD & DevOps
+
+**GitHub Actions • Jenkins • GitLab CI • Git**
+
+### Testing Approaches
+
+**Functional Testing • Exploratory Testing • Regression Testing • E2E Testing • Integration Testing • Risk-Based Testing • BDD**
+
+---
+
+## 🤖 AI-Assisted Quality Engineering
+
+I actively explore how **AI can improve modern Software Quality Engineering workflows** while keeping engineering judgement and validation at the centre of the testing process.
+
+I use AI-assisted tools to accelerate areas such as:
+
+* Test scenario and edge-case generation
+* Playwright and Cypress test development
+* Test automation refactoring
+* Synthetic test data generation
+* Log and failure analysis
+* API test generation
+* Test coverage analysis
+* Debugging and root-cause investigation
+* QA documentation and test planning
+
+My focus is on using AI as a **force multiplier for QA engineering**, not as a replacement for critical thinking, exploratory testing, or engineering judgement.
+
+---
+
+## 💼 What I Bring to Engineering Teams
+
+I approach quality as a **shared engineering responsibility rather than a final testing phase**.
+
+My focus is on helping teams:
+
+* Identify defects and product risks earlier in the SDLC
+* Build maintainable and scalable automation frameworks
+* Improve automated regression coverage
+* Integrate testing effectively into CI/CD pipelines
+* Validate critical frontend, backend, API, and mobile workflows
+* Investigate failures through logs, network traffic, APIs, and browser developer tools
+* Balance automation with high-value exploratory testing
+* Improve release confidence without creating unnecessary testing bottlenecks
+
+---
+
+## 🏗️ Areas of Experience
+
+### Web & SaaS
+
+Testing complex user journeys, authentication, permissions, integrations, responsive interfaces, and cross-browser behaviour.
+
+### Mobile
+
+Testing Android and iOS applications across functional, usability, compatibility, API, and end-to-end workflows.
+
+### FinTech
+
+Testing critical workflows involving **payments, transactions, financial calculations, authentication, API integrations, and data integrity**.
+
+### Consumer Products
+
+Quality assurance for high-traffic consumer applications where **usability, reliability, compatibility, performance, and user experience** are critical.
+
+---
+
+## 🚀 Current Interests
+
+* QA Automation Engineering
+* AI-First Quality Engineering
+* Playwright & Modern Web Automation
+* Mobile Test Automation
+* API Automation
+* CI/CD & Continuous Testing
+* Scalable Test Architecture
+* AI-Assisted Testing
+* Quality Engineering Strategy
+* Reliable Software Delivery
+
+---
+
+## 🎓 Education & Certification
+
+**MSc Computer Science**
 Kumamoto University, Japan
 
-**BSc Electrical & Electronic Engineering**  
+**BSc Electrical & Electronic Engineering**
 Ashesi University, Ghana
 
 **ISTQB Certified Tester**
 
 ---
 
-## 🚀 Current Interests
-
-- AI/ML Quality Engineering
-- Trustworthy & Reliable AI
-- ML Model Validation
-- Uncertainty Quantification
-- AI Testing & Test Automation
-- MLOps & Continuous Model Validation
-- Risk-Aware AI Decision Systems
-
----
-
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/martinampah/
-- Email: martinwalterampah@gmail.com
+**LinkedIn:** linkedin.com/in/martinampah/
+**Email:** [martinwalterampah@gmail.com](mailto:martinwalterampah@gmail.com)
