@@ -121,23 +121,6 @@ Testing critical workflows involving **payments, transactions, financial calcula
 
 Quality assurance for high-traffic consumer applications where **usability, reliability, compatibility, performance, and user experience** are critical.
 
----
-
-## 🚀 Current Interests
-
-* QA Automation Engineering
-* AI-First Quality Engineering
-* Playwright & Modern Web Automation
-* Mobile Test Automation
-* API Automation
-* CI/CD & Continuous Testing
-* Scalable Test Architecture
-* AI-Assisted Testing
-* Quality Engineering Strategy
-* Reliable Software Delivery
-
----
-
 ## 🎓 Education & Certification
 
 **MSc Computer Science**
